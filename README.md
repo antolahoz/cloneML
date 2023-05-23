@@ -1,6 +1,6 @@
 # cloneML
 
-i tried to replicate the app “TapTapSee” features, which help blind people to recognize things near them, doing it with a very well trained machine learning.
+I tried to replicate the app “TapTapSee” features, which help blind people to recognize things near them, doing it with a very well trained machine learning.
 
 I did it because i wanted to understand more about what’s behind machine learning and coreML.
 
